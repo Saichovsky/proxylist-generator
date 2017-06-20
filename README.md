@@ -1,8 +1,13 @@
-# Proxylist-Generator v0.1
+# Proxylist-Generator v1.0
 
 Here's a shell script that I use to harvest anonymous SOCKS5 proxy servers for use with [JDownloader](http://www.jdownloader.org/jdownloader2). You may use AWK to modify the output further.
 
 The script retrieves SOCKS5 IP addresses (and ports) from two sources and tests them for speed and functionality before weeding out the non-working addresses.
+
+
+## Changelog
+
+A few bug fixes
 
 ## Usage
 
